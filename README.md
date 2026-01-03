@@ -1,5 +1,6 @@
 # Snowfall Userscript
 Simple Tampermonkey script that lets it snow on all websites!
+![demo](https://github.com/user-attachments/assets/341bd726-1f33-4fe9-84d1-927b7275e435)
 
 ## Installation
 Make sure you have the Tampermonkey extension installed in your browser.
